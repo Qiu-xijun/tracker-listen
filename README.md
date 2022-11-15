@@ -8,7 +8,7 @@
    - 创建账号 npm 账号
    - npm login
    - npm publish 发布
- 
+   - [npm地址]([url](https://www.npmjs.com/package/@qiuxijun/tracker-listen))
 
 使用方法
 
