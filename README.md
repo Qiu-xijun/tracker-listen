@@ -1,4 +1,14 @@
+
 # tracker 前端埋点SDK
+ - 克隆项目
+ - ``` npm i
+ - 打包 
+   ``` npm run build
+ - 发布npm 
+   - 创建账号 npm 账号
+   - npm login
+   - npm publish 发布
+ 
 
 使用方法
 
